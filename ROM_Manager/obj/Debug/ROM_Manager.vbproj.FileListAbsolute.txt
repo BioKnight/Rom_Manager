@@ -1,0 +1,12 @@
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\bin\Debug\ROM_Manager.exe.config
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\bin\Debug\ROM_Manager.exe
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\bin\Debug\ROM_Manager.pdb
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\bin\Debug\ROM_Manager.xml
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\obj\Debug\ROM_Manager.Resources.resources
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\obj\Debug\ROM_Manager.vbproj.GenerateResource.cache
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\obj\Debug\ROM_Manager.vbproj.CoreCompileInputs.cache
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\obj\Debug\ROM_Manager.exe
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\obj\Debug\ROM_Manager.xml
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\obj\Debug\ROM_Manager.pdb
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\obj\Debug\ROM_Manager.frm_Main.resources
+C:\Users\Randy Miller\source\repos\Rom_Detect\ROM_Manager\obj\Debug\ROM_Manager.vbprojAssemblyReference.cache
